@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+h1
+{
+
+font-family: 'Source Sans Pro';
+
+}
+p
+{
+
+font-family: 'Source Sans Pro';
+
+}
+.movzu
+{
+
+width: 700px;
+height: 85vh;
+background-color: white;
+margin: 40px auto;
+border: 20px solid #bdc3c7;
+padding: 20px;
+padding-bottom: 50px;
+
+}
+.tarix
+{
+ 
+     color:#3498db;	
+     font-weight: 300;
+     letter-spacing: 4px;
+     text-align: center;
+     font-family: 'Source Sans Pro';
+
+}
+.olcu
+{   
+
+     margin-top: 0px;
+     height: 35px;
+     width: 4px;
+     background-color:#bdc3c7;
+     display: inline-block;
+
+}
+.boyut
+{
+
+width:95%;
+display: inline-block;
+
+}
+
